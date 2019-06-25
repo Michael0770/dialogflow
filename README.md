@@ -3,7 +3,7 @@
 [![Build
 Status](https://travis-ci.org/GoogleCloudPlatform/appengine-try-java.svg?branch=master)](https://travis-ci.org/GoogleCloudPlatform/appengine-try-java)
 
-This project demostrates that how to use Dialogflow in a java project in 
+This project demonstrates that how to use Dialogflow in a java project in 
 [GCP App Engine](https://cloud.google.com/appengine/docs/java/).
 
 ## Before you begin
